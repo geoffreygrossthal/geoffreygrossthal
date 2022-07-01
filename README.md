@@ -2,4 +2,4 @@
 - 👀 I’m interested... in web development, and machine learning.
 - 🌱 I’m currently... learning HTML, CSS, algorithms, data structures, and Java Script.
 - 💞️ I’m looking to... collaborate on projects built on Java, C++, MIPs Assembly, CSS, HTML, and Java Script.
-- 📫 How to reach me ... by github or ggrossthalcareer@gmail.com.
+- 📫 How to reach me ... by ggrossthalcareer@gmail.com.
